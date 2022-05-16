@@ -9,4 +9,4 @@
 - 😄 Pronouns: he/him
 <!-- - ⚡ Fun fact: ... -->
 
-![](https://komarev.com/ghpvc/?username=damoc1es&color=5e69d1)
+<!-- ![](https://komarev.com/ghpvc/?username=damoc1es&color=5e69d1) -->
