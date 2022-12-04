@@ -1,12 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 🌱 I’m currently learning ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about comic books
-<!-- - 📫 How to reach me: see email in CV -->
-- 😄 Pronouns: he/him
-<!-- - ⚡ Fun fact: ... -->
+I'm currently in my 2nd year as a **Computer Science** student at Babeș-Bolyai University in Cluj-Napoca, Romania. 
 
-<!-- ![](https://komarev.com/ghpvc/?username=damoc1es&color=5e69d1) -->
+😄 ∽ Pronouns: **he/him** \
+💬 ∽ I love **comic books** and **problem solving** \
+🌐 ∽ Homepage: [damocles.dev](https://damocles.dev/) \
+📫 ∽ How to reach me: github [at] my domain
