@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I'm currently in my 2nd year as a **Computer Science** student at Babeș-Bolyai University in Cluj-Napoca, Romania. 
 
 ✨ ∽ Pronouns: **he/him** \
